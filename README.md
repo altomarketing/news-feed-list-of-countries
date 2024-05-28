@@ -872,7 +872,7 @@ Homepage and feeds url
 - [LaSegunda.com](http://lasegunda.com/) - [Feed](http://opinion.lasegunda.com/sociedadanonima/organizaciones-sociales-se-reunen-en-la-segunda/feed/)
 - [Noticias - Terra Chile](http://noticias.terra.cl/) - [Feed](http://noticias.terra.cl/rss/Controller?channelid=7ffaaceb949b1310VgnVCM20000099f154d0RCRD&ctName=atomo-noticia&lg=es-cl)
 - [La Cuerta](http://www.lacuarta.com/) - [Feed](http://www.vayatele.com/13998/rss2.xml)
-- [Cooperativa.cl](http://cooperativa.cl/) - [Feed](http://www.cooperativa.cl/noticias/site/edic/base/rss/_pod_diario.xml)
+- [Cooperativa.cl](http://cooperativa.cl/) - [Feed](https://www.cooperativa.cl/noticias/stat/rss/rss.html)
 - [BioBioChile](http://biobiochile.cl/) - [Feed](http://santiagoamil.biobiochile.cl/feed/)
 - [13.cl](http://13.cl/) - [Feed](http://www.ineex.com/tag/13-cl/feed/)
 - [Nacion.cl](http://lanacion.cl/) - [Feed](http://www.lanacion.cl/rss.xml)
